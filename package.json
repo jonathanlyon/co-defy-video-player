@@ -2,14 +2,15 @@
 	"name": "co-defy-video-player",
 	"description": "YouTube Video Player Interface using plyr.io for Directus",
 	"icon": "smart_display",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"license": "MIT",
 	"author": "Jonathan Lyon",	
 	"keywords": [
 		"video",
 		"directus",
 		"plyr.io",
-		"YouTube"
+		"YouTube",
+		"interface"
 	  ],
 	"type": "module",
 	"files": [
